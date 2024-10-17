@@ -7,7 +7,7 @@ A simple web app to manage appointments.
 - Frontend: In a new console
   `cd frontend && npm i && npm run dev`
 
-In your browser open http://localhos:3000[http://localhos:3000] and enjoy!
+In your browser open http://localhos:3000 and enjoy!
 
 # Annotations
 The backend uses the **nest-cache** for a local persistence while the server is mounted.
