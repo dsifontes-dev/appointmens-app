@@ -2,7 +2,7 @@ const appointments = [
   {
     id: 1,
     name: 'John Doe',
-    date: '2024-10-15',
+    date: '2024-10-20',
     time_from: '10:00',
     time_to: '11:00',
     description: 'Reunión con el cliente',
@@ -10,7 +10,7 @@ const appointments = [
   {
     id: 2,
     name: 'Jane Smith',
-    date: '2024-10-16',
+    date: '2024-10-21',
     time_from: '14:30',
     time_to: '15:30',
     description: 'Revisión del proyecto',
@@ -18,7 +18,7 @@ const appointments = [
   {
     id: 3,
     name: 'Alice Johnson',
-    date: '2024-10-17',
+    date: '2024-10-22',
     time_from: '09:00',
     time_to: '09:30',
     description: 'Reunión diaria del equipo',
@@ -26,7 +26,7 @@ const appointments = [
   {
     id: 4,
     name: 'Bob Brown',
-    date: '2024-10-18',
+    date: '2024-10-23',
     time_from: '11:15',
     time_to: '12:00',
     description: 'Revisión de diseño',
@@ -34,7 +34,7 @@ const appointments = [
   {
     id: 5,
     name: 'Charlie Davis',
-    date: '2024-10-19',
+    date: '2024-10-24',
     time_from: '13:45',
     time_to: '14:45',
     description: 'Presentación al cliente',
@@ -42,7 +42,7 @@ const appointments = [
   {
     id: 6,
     name: 'Diana Miller',
-    date: '2024-10-20',
+    date: '2024-10-25',
     time_from: '16:00',
     time_to: '17:00',
     description: 'Sesión de revisión de código',
@@ -50,7 +50,7 @@ const appointments = [
   {
     id: 7,
     name: 'Eve Taylor',
-    date: '2024-10-21',
+    date: '2024-10-26',
     time_from: '10:30',
     time_to: '11:30',
     description: 'Planificación del presupuesto',
